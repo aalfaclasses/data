@@ -59,7 +59,7 @@ p {
 img {
   max-width: 100%;
 }
-/* 
+
 /* preloader */
 #pre_loader{
   position: fixed;
@@ -159,7 +159,7 @@ img {
   100% {
     opacity: 0;
   }
-} */
+}
 
 /* ---------------------------------
               header
