@@ -399,7 +399,7 @@
   }
 
   header .top_contact_part {
-    gap: 10px;
+    gap: 20px;
     font-size: 9px;
   }
   header .follow_part h6 {
@@ -608,7 +608,7 @@
 
   header .top_contact_part {
     padding: 9px;
-    font-size: 9px;
+    font-size: 11px;
   }
 
   header .follow_part {
