@@ -175,7 +175,7 @@ header .top_bar {
   width: 620px;
   position: absolute;
   z-index: -1;
-  background: orange;
+  background: #ffff00;
   height: 44px;
   top: 0;
 }
@@ -206,7 +206,7 @@ header .follow_part {
   align-items: center;
   height: 100%;
   gap: 20px;
-  color: #fff;
+  color: #800080;
 }
 
 header .follow_part .icon {
