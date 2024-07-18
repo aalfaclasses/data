@@ -15,222 +15,6 @@
     width: 720px;
   }
 
-  /* about us page */
-  .campus_inner .campus {
-    padding-left: 160px;
-  }
-
-  .campus_inner .alumni {
-    padding-right: 160px;
-  }
-  /* Event */
-
-  .upcoming_event_inner .title {
-    padding-left: 31%;
-  }
-
-  .owl-prev {
-    left: -0%;
-  }
-  /* course */
-  .course_slider .owl-next {
-    right: -5%;
-  }
-  .course_slider .owl-prev {
-    left: -5%;
-  }
-
-  /* testimonial */
-  .testimonial_slider .owl-next {
-    right: -5%;
-  }
-  .testimonial_slider .owl-prev {
-    left: -5%;
-  }
-}
-
-@media only screen and (max-width: 1400px) {
-
-
-  .owl-nav span{
-    padding: 5px 15px;
-  }
-  .owl-nav span:hover {
-    border-radius: 10%;
-  }
-
-  .testimonial_slider .owl-next,.course_slider .owl-next  {
-    right: -5%;
-  }
-  
-  .testimonial_slider .owl-prev ,.course_slider .owl-prev  {
-    left: -5%;
-  }
-  .event_slider .owl-nav .owl-prev {
-    right:-950px ;
-  }
-
-  .img_slider .owl-carousel img {
-    height: 700px;
-  }
-
-  /* best feature */
-  .best_inner .best_img {
-    width: 650px;
-  }
-
-  /* event */
-  .upcoming_event_inner .title {
-    padding-left: 23%;
-  }
-  .upcoming_event_inner .blank_bg{
-    left: 282px;
-  }
-  /* about us page */
-  .campus_inner .campus {
-    padding-left: 70px;
-  }
-
-  .campus_inner .alumni {
-    padding-right: 70px;
-  }
-
-  /* course page */
-
-  .courses_inner .courses .courses_nursing_pos {
-    top: 44%;
-  }
-
-  /* blog detail */
-  .top_blog_part .top_blog_left .lines {
-    margin: 0 20px;
-  }
-  
-}
-
-@media screen and (max-width: 1366px) {
-  /* best feature */
-  .best_inner .best_text .faclity ul li .icon_part {
-    width: 146px;
-    height: 76px;
-  }
-
-  .best_inner .best_img {
-    width: 610px;
-    height: 610px;
-  }
-
-  /* evennt */
-
-  .event_slider .owl-next {
-    top: -65px;
-    right: 0;
-  }
-
-  .event_slider .owl-prev {
-    top: -65px;
-    right: -850px;
-  }
-
-  /* blog dertail */
-
-  .top_blog_part .top_blog_left .lines {
-    margin: 0 23px;
-  }
-
-  
-}
-
-@media only screen and (max-width: 1200px) {
-
-  .owl-nav span{
-    padding: 5px 10px;
-  }
-  
-  .testimonial_slider .owl-next,.course_slider .owl-next  {
-    right: -5%;
-  }
-  
-  .testimonial_slider .owl-prev ,.course_slider .owl-prev  {
-    left: -5%;
-  }
-  .event_slider .owl-nav .owl-prev {
-    right:-820px ;
-  }
-  /* heaqder */
-  .top_bar .left {
-    width: 410px;
-  }
-
-  .top_bar .right {
-    width: calc(100% - 410px);
-  }
-
-  .img_slider .img_slider .owl-carousel img {
-    height: 620px;
-  }
-
-  /* best feature */
-  .best_inner .best_img {
-    width: 580px;
-  }
-
-  .best_inner .best_text .faclity ul li .icon_part {
-    height: 65px;
-    margin-right: 25px;
-  }
-
-  .best_inner .best_img {
-    top: 0;
-  }
-
-  .best_inner .best_img {
-    width: 500px;
-    height: 625px;
-  }
-
-  /* event */
-  .event_slider .owl-prev {
-    top: -65px;
-    right: -710px;
-  }
-
-  .event .upcoming_event_inner .img_part {
-    display: none;
-  }
-  .event .upcoming_event_inner .blank_bg {
-    left: 0;
-  }
-  .upcoming_event_inner .title {
-    padding: 0;
-  }
-  .upcoming_event_box .event_add_time .event_add_time_inner {
-    font-size: 15px;
-  }
-  .upcoming_event_inner {
-    height: 680px;
-  }
-
-  /* about us page */
-  .about_university_inner .image_part .experience_box {
-    padding: 20px 60px;
-    left: 65px;
-    bottom: 80px;
-  }
-  .about_university_inner .title span {
-    margin-top: 20px;
-    font-size: 35px;
-  }
-  .about_university_inner .title h2 {
-    font-size: 45px;
-  }
-  .about_university_inner .about_uni_text .p1,
-  .about_university_inner .about_uni_text p {
-    font-size: 18px;
-  }
-  .about_us_inner {
-    height: 300px;
-  }
 
   /* breadcrumb */
   .breadcrumb_title h4 {
@@ -238,31 +22,6 @@
   }
   .breadcrumb {
     padding: 15px 35px;
-  }
-
-  /* course page */
-
-  .courses_inner .courses .courses_nursing_pos {
-    top: 39%;
-  }
-
-  /*  course detail page */
-  .course_detail_inner .course_part .course_part_title h3 {
-    padding: 0 10px;
-    font-size: 20px;
-  }
-  .course_detail_inner .course_part .text_part {
-    font-size: 16px;
-  }
-  .top_box h4 {
-    font-size: 25px;
-  }
-  .bottom_box .filter_part .info_part h3 {
-    font-size: 35px;
-  }
-  .bottom_box .filter_part .info_part p,
-  .bottom_box .filter_part .info_part li {
-    font-size: 18px;
   }
 
   /* contact page */
@@ -468,65 +227,8 @@
     width: 90px;
   }
 
-  /* counter */
-  .counter_inner .bod {
-    border-bottom: 1px dashed #1e1e1e;
-  }
-
-  .brands {
-    margin-top: 50px;
-  }
-
-  /* event */
-
-  .upcoming_event_inner {
-    height: 700px;
-  }
-  .upcoming_event_inner .img_part {
-    display: none;
-  }
-  .upcoming_event_inner .title {
-    text-align: center;
-    margin-bottom: 50px;
-  }
-  .upcoming_event_inner .title span {
-    font-size: 18px;
-  }
-  .upcoming_event_inner .title h2 {
-    font-size: 35px;
-  }
   
 
-  /* testimonial */
-
-  .testimonial .testimonial_inner .testimonial_title span {
-    font-size: 18px !important;
-  }
-  .testimonial_inner .testimonial_title h2 {
-    font-size: 30px !important;
-  }
-  .testimonial_inner .testimonial_box .description {
-    font-size: 14px;
-  }
-
-  /* studentt */
-
-  .student_story_inner .student_title span {
-    font-size: 18px;
-  }
-  .student_story_inner .student_title h2 {
-    font-size: 30px;
-  }
-  
-
-  /* blog */
-
-  .blog_news_inner .blog_title span {
-    font-size: 18px;
-  }
-  .blog_news_inner .blog_title h2 {
-    font-size: 30px;
-  }
   /* footer */
 
   .footer_inner .link_foot {
@@ -681,7 +383,7 @@
   }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 768px) {
   .top_bar .container {
     max-width: 757px;
     margin: 0;
@@ -698,14 +400,14 @@
 
   header .top_contact_part {
     gap: 20px;
-    font-size: 13px;
+    font-size: 9px;
   }
   header .follow_part h6 {
-    font-size: 13px;
+    font-size: 9px;
   }
   header .follow_part {
     gap: 10px;
-    font-size: 13px;
+    font-size: 9px;
     padding-left: 30px;
   }
 
@@ -888,7 +590,7 @@
   /* header */
   .top_bar .left {
     width: 200px;
-    height: 32px;
+    height: 31px;
   }
 
   .top_bar .right {
@@ -1209,17 +911,20 @@
   }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 325px) {
+    
+
   .top_bar .left {
     width: 150px;
+    
   }
 
   .top_bar .right {
-    width: calc(100% - 150px);
+    width: 100px;
   }
 
   header .follow_part .icon {
-    gap: 9px;
+    gap: 15px;
   }
 
   header .top_contact_part {
@@ -1312,11 +1017,11 @@
   }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 425px) {
 
   
   .top_bar .top_contact_part .foot_i span,.top_contact_part .foot_i i{
-    font-size: 9px;
+    font-size: 8px;
   }
   header .top_contact_part {
     gap: 10px;
@@ -1333,6 +1038,8 @@
 
   header .follow_part .icon {
     gap: 10px;
+    height: 10px;
+    width: 5px;
   }
 
   header .follow_part {
@@ -1430,9 +1137,11 @@
   }
 }
 
-@media only screen and (max-width: 370px) {
+@media only screen and (max-width: 375px) {
 
- 
+  .top_bar .container{
+    height: 30px;
+  }
   .top_bar .left {
     width: 130px;
   }
@@ -1446,11 +1155,12 @@
   }
 
   header .follow_part {
-    padding-left: 12px;
+    padding-left: 16px;
   }
   
   header .top_contact_part {
     gap: 5px;
+    height: 30px;
   }
   /* course page */
 
