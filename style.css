@@ -1141,7 +1141,7 @@ header .top_contact_part i {
 }
 
 .footer_inner {
-  background-image: url(../image/footer_bg.jpg);
+  background-image: url(./image/footer_bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
