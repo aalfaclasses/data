@@ -23,7 +23,9 @@ body {
   font-family: var(--third-font);
   overflow-x: hidden;
   background-color: #cc99cc;
+  
 }
+
 
 body ul {
   margin: 0;
@@ -322,7 +324,7 @@ header .top_contact_part i {
 }
 
 .hero .left_text h1 {
-  color: #fff;
+  color: whitesmoke;
   font-family: var(--sub-main-font);
   font-size: 65px;
   margin-bottom: 10px !important;
@@ -1340,6 +1342,7 @@ header .top_contact_part i {
 }
 .about_university_inner .image_part {
   position: relative;
+  
 }
 .about_university_inner .image_part .experience_box {
   background-color: var(--main-color);
@@ -1385,10 +1388,10 @@ header .top_contact_part i {
   margin-bottom: 20px;
 }
 .about_university_inner .about_uni_text p {
-  color: #777;
+  color: black;
   text-align: justify;
   font-family: var(--third-font);
-  font-size: 17px;
+  font-size: 21px;
   font-weight: 400;
   line-height: 31px;
 }
