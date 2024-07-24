@@ -309,11 +309,13 @@ header .top_contact_part i {
 .hero {
   position: relative;
   margin-top: 70px;
+  align-items: center;
 }
 
 .hero .left_text {
+
   position: absolute;
-  height: 100%;
+  height: 50vh;
   width: 100%;
   z-index: 9;
   top: 0;
@@ -321,20 +323,38 @@ header .top_contact_part i {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-left: 40vh;
 }
 
+.hero .left_text h6 {
+  text-shadow: 0 0 3px #ffffff, 0 0 5px #800080;
+  color: white;
+  margin-bottom: 1vh;
+  font-size: 25px;
+  margin-left: 9.2vh;
+}
 .hero .left_text h1 {
-  color: whitesmoke;
+  /*  */
+
+  /*  */
+  text-shadow: 0 0 1px #ffffff, 0 0 8px #800080;
+  /* color: rgb(10, 10, 10); */
+  color: white;
+
+  justify-content: center;
   font-family: var(--sub-main-font);
-  font-size: 65px;
+  font-size: 80px;
   margin-bottom: 10px !important;
 }
 
 .hero .left_text p {
+  color: white;
+  text-shadow: 0 0 3px #ffffff, 0 0 5px #800080;
+  align-items: center;
   width: 460px;
-  color: #fff;
+  margin-left: 10vh;
   font-family: var(--sub-main-font);
-  font-size: 17px;
+  font-size: 25px;
   margin-bottom: 40px;
 }
 
@@ -382,6 +402,7 @@ header .top_contact_part i {
 .hero .btn_group {
   display: flex;
   gap: 30px;
+  margin-left: 15vh;
 }
 
 .hero .main_btn {
