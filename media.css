@@ -604,6 +604,10 @@
 }
 
 @media only screen and (max-width: 425px) {
+  /* navigation */
+  .nav_links{
+    font-size: 21px;
+  }
   /* header */
   .top_bar .left {
     width: 200px;

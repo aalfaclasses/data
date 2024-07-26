@@ -211,6 +211,7 @@ header .follow_part {
   color: #800080;
 }
 
+
 header .follow_part .icon {
   display: flex;
   gap: 15px;
@@ -2306,4 +2307,10 @@ header .top_contact_part i {
 
 .load_more button:hover{
   background: #2e3192;
+}
+
+/* New cahnge */
+.item h5{
+  text-align: center;
+  color: white;
 }
