@@ -1363,8 +1363,12 @@ header .top_contact_part i {
   margin-top: 100px;
 }
 .about_university_inner .image_part {
-  position: relative;
-  
+  position: relative; 
+}
+.about_university img{
+  margin-top: 35px;
+  margin-right: 25px;
+  border-radius: 10px;
 }
 .about_university_inner .image_part .experience_box {
   background-color: var(--main-color);
@@ -1375,7 +1379,7 @@ header .top_contact_part i {
   padding: 20px 70px;
   color: #fff;
   position: absolute;
-  bottom: 100px;
+  bottom: 40px;
   left: 90px;
   border-radius: 10px;
 }
