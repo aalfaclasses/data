@@ -8,8 +8,8 @@
 }
 
 :root {
-  --main-color: #800080 ;
-  --sub-color: #800080;
+  --main-color: #ce4dff ;
+  --sub-color: #ce4dff;
   --sec-bg: #ffff00;
   --main-font: "Josefin Sans";
   --sub-main-font: "Sen";
@@ -22,7 +22,7 @@ html {
 body {
   font-family: var(--third-font);
   overflow-x: hidden;
-  background-color: #cc99cc;
+  background-color: #e8aaff;
   
 }
 
@@ -239,7 +239,7 @@ header .top_contact_part i {
   position: fixed;
   width: 100%;
   z-index: 999;
-  background-color: #fff;
+  background-color: #fff7ef;
 }
 
 .sticky {

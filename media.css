@@ -756,8 +756,9 @@
     font-size: 30px;
   }
   .about_university_inner .image_part .experience_box {
-    left: 60px;
-    bottom: 80px;
+    /* padding: 10px 30px;   */
+    left: 10px;
+    bottom: 1.5vh;
   }
 
   .team_inner .team_box .title span {
@@ -1033,8 +1034,8 @@
   /* about us page */
   .about_university_inner .image_part .experience_box {
     padding: 10px 30px;
-    left: 50px;
-    bottom: 60px;
+    left: 10px;
+    bottom: 1.5vh;
   }
   .team_image .team_name_box .team_name {
     left: 26%;
@@ -1135,8 +1136,8 @@
 
   .about_university_inner .image_part .experience_box {
     padding: 10px 30px;
-    left: 40px;
-    bottom: 50px;
+    left: 10px;
+    bottom: 1.5vh;
   }
 
   .team_inner .team_box .title h2 {
@@ -1252,8 +1253,8 @@
 
   .about_university_inner .image_part .experience_box {
     padding: 10px 20px;
-    left: 20px;
-    bottom: 40px;
+    left: 10px;
+    bottom: 1.5vh;
   }
   .team_inner .team_box .title span {
     font-size: 13px;
