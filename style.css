@@ -8,9 +8,9 @@
 }
 
 :root {
-  --main-color: #ce4dff ;
-  --sub-color: #ce4dff;
-  --sec-bg: #ffff00;
+  --main-color: #4c045c ;
+  --sub-color: #4c045cc0;
+  --sec-bg: #4c045c;
   --main-font: "Josefin Sans";
   --sub-main-font: "Sen";
   --third-font: "Jost";
@@ -22,7 +22,7 @@ html {
 body {
   font-family: var(--third-font);
   overflow-x: hidden;
-  background-color: #e8aaff;
+  background-color: rgb(76, 24, 89);
   
 }
 
@@ -128,7 +128,7 @@ img {
 }
 
 .circle:nth-child(2)::before {
-  background-color: #800080;
+  background-color: #4c045c;
   animation-delay: 0.2s;
 }
 
@@ -138,7 +138,7 @@ img {
 }
 
 .circle:nth-child(4)::before {
-  background-color: #800080;
+  background-color: #4c045c;
   animation-delay: 0.6s;
 }
 
@@ -1040,7 +1040,7 @@ header .top_contact_part i {
   margin-top: 100px;
 }
 .brand_inner {
-  background-color: var(--main-color);
+  background-color: #f1e84b;
   padding: 50px 0px;
 }
 .brand_slider img {
@@ -1396,6 +1396,8 @@ header .top_contact_part i {
   font-size: 50px;
   font-weight: 700;
   margin-bottom: 24px;
+  color: whitesmoke; 
+  /* color title */
 }
 
 .about_university_inner .about_uni {
@@ -1405,7 +1407,7 @@ header .top_contact_part i {
   justify-content: center;
 }
 .about_university_inner .about_uni_text .p1 {
-  color: var(--sub-color);
+  color: whitesmoke;
   text-align: justify;
   font-family: var(--third-font);
   font-size: 17px;
@@ -1414,7 +1416,7 @@ header .top_contact_part i {
   margin-bottom: 20px;
 }
 .about_university_inner .about_uni_text p {
-  color: black;
+  color: whitesmoke;
   text-align: justify;
   font-family: var(--third-font);
   font-size: 21px;
@@ -2025,13 +2027,14 @@ header .top_contact_part i {
   margin-bottom: 50px;
 }
 .contact_main .contact_title span {
-  color: #800080;
+  color: whitesmoke;
   font-family: var(--third-font);
   font-size: 30px;
   font-weight: 600;
 }
 
 .contact_main .contact_title h2 {
+  color: whitesmoke;
   font-family: var(--third-font);
   font-size: 50px;
   font-weight: 600;
@@ -2316,5 +2319,5 @@ header .top_contact_part i {
 /* New cahnge */
 .item h5{
   text-align: center;
-  color: white;
+  color: #4c0c5c;
 }
