@@ -1406,6 +1406,12 @@ header .top_contact_part i {
   flex-direction: column;
   justify-content: center;
 }
+/* .about_university_inner .about_uni_text {
+  text-align: center;
+  color: #f1e84b;
+  font-weight: 1000;
+} */
+
 .about_university_inner .about_uni_text .p1 {
   color: whitesmoke;
   text-align: justify;
@@ -1420,9 +1426,10 @@ header .top_contact_part i {
   text-align: justify;
   font-family: var(--third-font);
   font-size: 21px;
-  font-weight: 400;
+  font-weight: 250;
   line-height: 31px;
 }
+
 
 /* -----------------------------------------
         campus tour & powerful alumni
